@@ -1,3 +1,3 @@
-package main
+package gs
 
 //go:generate echo "Generating..."
